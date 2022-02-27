@@ -1,0 +1,474 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A dispute betwixt an atheist and a Christian the atheist being a Flemming, the Christian an Englishman. Published according to order.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 76 KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81551</idno>
+            <idno type="STC">Wing D1678</idno>
+            <idno type="STC">Thomason E1187_3</idno>
+            <idno type="STC">ESTC R15204</idno>
+            <idno type="EEBO-CITATION">99859819</idno>
+            <idno type="PROQUEST">99859819</idno>
+            <idno type="VID">111918</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81551)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111918)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1187[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A dispute betwixt an atheist and a Christian the atheist being a Flemming, the Christian an Englishman. Published according to order.</title>
+                  <author>G. G.</author>
+               </titleStmt>
+               <extent>[6], 51, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Preface signed: G.G.</note>
+                  <note>With final imprimatur leaf.</note>
+                  <note>Annotation on Thomason copy: "Aug: 17th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christianity --  Early works to 1800.</term>
+               <term>Atheism --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111918:1" rendition="simple:additions"/>
+            <p>A DISPUTE BETWIXT AN <hi>ATHEIST</hi> AND A <hi>CHRISTIAN:</hi> THE ATHEIST being a <hi>Flemming,</hi> The CHRISTIAN an <hi>Engliſhman.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng" type="license">
+                  <body>
+                     <p>
+                        <hi>Publiſhed according to Order.</hi>
+                     </p>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed, 1646.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:111918:2"/>
+            <pb facs="tcp:111918:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He ſubject being the heighth of Gods workman<g ref="char:EOLhyphen"/>ſhip, might bold<g ref="char:EOLhyphen"/>ly claim entertainment from the cleareſt ſpeculation, were it here anſwerably figurated, and though my deare affection to my Countreymen perſwades
+<pb facs="tcp:111918:3"/>me to run the hazard of their cenſures, rather then omit an opportunity to tell them their errours, yet that could not per<g ref="char:EOLhyphen"/>ſwade its young limbs to ex<g ref="char:EOLhyphen"/>poſe it ſelfe to the Preſſe, but a friend diſcovering ſuch papers by me, told me, with or againſt my wil he would publiſh them: &amp; ſeeing no remedy, I thought to excuſe it in its imperfecti<g ref="char:EOLhyphen"/>ons, it being but in its naturall colour, writ and conceived in as ſhort a time as ſuch a Diſ<g ref="char:EOLhyphen"/>courſe could well be uttered:
+<pb facs="tcp:111918:3"/>yet if there be a miſtake tis but in a name &amp; not in the depen<g ref="char:EOLhyphen"/>dence on it: But this apologie is to the civill interpreter, and not to ſuch Pragmaticks as ſhall read it, to take occaſion to ſhew their little wits in abu<g ref="char:EOLhyphen"/>ſing it and the Author: But if its good fortune carry it into the hands of a favourable con<g ref="char:EOLhyphen"/>ſtructor, to him I ſhall reckon my ſelf obliged in the conditi<g ref="char:EOLhyphen"/>on of an humble ſervant.</p>
+            <closer>
+               <signed>G.G.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:111918:4"/>
+            <p>P. 5. l. 22. here r. there p. 8. l 18. herefore r. therefore p. 9. l. 12. is r. in p. 9. l. laſt Menews r. Menarcs p. 24. l. 18. <hi>futra</hi> r. <hi>foutra</hi> p. 28. l. 1. ten r. 5. p. 31. l. 10. <hi>Capland</hi> r. <hi>Lap<g ref="char:EOLhyphen"/>land</hi> p. 33. l. 3. <hi>Aukia</hi> r. <hi>Aulia</hi> p. 37. l 5. celerines r. ſeli<g ref="char:EOLhyphen"/>cities p. 41. l. 18. <hi>Ely</hi> r. <hi>Elroy</hi> p. 42. l. 5. puffed r. parted l. 16. <hi>Motes</hi> r. <hi>Moſes</hi> l. 18. <hi>Rabines</hi> r. <hi>Rabbins.</hi>
+            </p>
+         </div>
+         <div type="errata">
+            <head>Errata.</head>
+            <p>Pag. 1. line 13. for you r. yours, p. 3. l. 1. for and r. or p. 9. l 12. there is r. in, p. 21. l. 6. creatures r. Cheators, p. 14. l. 2. of maſters, r. Miſtreſſes, p. 31. l. 18. of <hi>Mar<g ref="char:EOLhyphen"/>ſela</hi> r. <hi>Meſſina,</hi> p 37. l. 5. ſigne r. fire, and l. 9. our r. on, p. 38. l. 6. for the r. their, p. 40. l. 16. as heares r. a<g ref="char:EOLhyphen"/>ſures, p. 45. l 18. We r. ſo, p. 49. l. 2. of have r. leave, p. 50. l. 3. of vain r. various, p. 50. l. 10. of proportion l. appurtenance.</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="1" facs="tcp:111918:4"/>
+            <head>A DISPUTE betwixt an <hi>Atheiſt</hi> and a <hi>Chriſtian: The</hi> Atheiſt <hi>being a</hi> Flemming: <hi>the</hi> Chriſtian <hi>an</hi> Engliſhman.</head>
+            <sp>
+               <speaker>Chriſtian.</speaker>
+               <p>BEing in company at an Ordinary with one, whom by his diſcourſe I gathered to be ſome Ethnick, or Atheiſt: I could not but require from him his faith and the title of his Religion a And notwithſtanding the unuſualneſſe of that cu<g ref="char:EOLhyphen"/>ſtome, I (with ſome Ceremony for my boldneſſe) intreated him to permit me a queſtion.</p>
+            </sp>
+            <sp>
+               <speaker>Atheiſt.</speaker>
+               <p>Any that you will ask, and is in my power to reſolve, ſhall be anſwered.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Then let mee intreat you to ſatisfie mee in the principles of your Faith, and Tenents in your Religion.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>That ſhall I with all my heart: though like<g ref="char:EOLhyphen"/>ly not agreeable unto you.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>I pray let me heare them: and though they are not mine they may be made ſo by ſuch reaſons as are beyond my anſwer: For indeed I look on my Tenents as well with the eye of Reaſon as of Faith.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Then I will with the more willingneſs impart
+<pb n="2" facs="tcp:111918:5"/>unto you my Creed, which I conceive to be groun<g ref="char:EOLhyphen"/>ded on naturall Phyloſophy.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>I ſhall be glad to hear what they are, and the rather, becauſe you will mayntain them by naturall Phyloſophy: which I conceive to ſignifie true &amp; ſub<g ref="char:EOLhyphen"/>ſtantial reaſon: For I have no artificial to anſwer by.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Truly I have ſpent the greateſt part of my time amongſt the learned; and in perticular a<g ref="char:EOLhyphen"/>mong thoſe men accounted the wiſeſt of <hi>England,</hi> (of which Country I conceive you to be) and doe find a correſpondency in them with me in the moſt of my tenents, which I can ſumme up into this for your anſwer: that I doe believe in an univerſall Providence that governs the things aſwell of the greater as of this inferiour Globe: and of the Souls eternity: and after this life in a place of unſpeakable felicity. And indeed I am not affraid of the gnaſhing ing of the teeth which is ſpoken ſhall happen to the bad after this life in the old law, nor yet of the trou<g ref="char:EOLhyphen"/>ble of the conſcience which in the new Law is ſup<g ref="char:EOLhyphen"/>poſed ſhall be to thoſe of the ſame damnable condi<g ref="char:EOLhyphen"/>tion: And indeed I rather thinke <hi>Moſes</hi> to be inſpi<g ref="char:EOLhyphen"/>red with a wit above the reſt of the <hi>Egyptians</hi> bond men then with a ſpirit.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Marry I am ſorry to ſee a man of ſo much gra<g ref="char:EOLhyphen"/>vity as you are, and a pretender to ſo much learning, to have ſo little true knowledge: But in truth I ra<g ref="char:EOLhyphen"/>ther pitty then am enraged at the opinion you have of the Father alone, &amp; not of the <hi>Chriſtian, Jewiſh,</hi>
+                  <pb n="3" facs="tcp:111918:5"/>and <hi>Mahumetan</hi> Religion: For as the old Law was the foundation of the new, ſo is the new the Quar<g ref="char:EOLhyphen"/>ry from whence all Chriſtians take the Materiall that build their ſeverall Tabernacles: and alſo all the <hi>Mahumetan</hi> Sects draw from both new, &amp; old ſo that the old being the foundation of the new, it muſt follow, that <hi>Moſes</hi> was the ground of them both: And ſo the <hi>Jews</hi> to this day adore him as the only inſtrument (under God) of all their temporal and ſpirituall comforts. And do you think, that a<g ref="char:EOLhyphen"/>mongſt ſo many ſeverall Nations, as are Profeſſors in the one, or the other, of them (there is ſcarcely a Prince or people to be found but looks for his ſouls comfort (which you confeſſe to be to Eternity (but by <hi>Moſes,</hi> Chriſt, or <hi>Mahumet</hi>) that there ſhould not be found men of as ſearching an underſtanding as you, and ſome ſuch pretenders to knowledge as you are? Yes; be confident that the very antiqui<g ref="char:EOLhyphen"/>ties of theſe beliefs are (if there were nothing elſe) ſufficient to prove the truth of them, and the divine power of <hi>Moſes,</hi> whom you will have onely wiſe, in a naturall way, and not in a divine, then there reſt of the Princes of <hi>Iſrael.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>The Principall thing that you ſeeme to main<g ref="char:EOLhyphen"/>taine your beliefe in <hi>Moſes</hi> withall, is the number Believers in him, and the long continuance of the ſame: In anſwer to that I ſay that that Plea wil, hold nothing: For wee will make it the caſe that is now betwixt the Church of <hi>Rome</hi> and the
+<pb n="4" facs="tcp:111918:6"/>Church of <hi>England</hi> For the Church of <hi>Rome</hi> being ancienter then the Church of <hi>England,</hi> why then are you not of it, if you will go for long received opinions.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Firſt, for the Church of <hi>Rome:</hi> If that were of greateſt Antiquity, it might work much on me; But Chriſt ſaith, If <hi>an Angell from heaven ſhould teach you any Doctrine but that which is written in Scri<g ref="char:EOLhyphen"/>pture, believe him not:</hi> and we have not the opinion of the Biſhop of <hi>Rome,</hi> as wee have of an Angell: And therefore, if we are commanded not to believe an Angell, we ought not to credit a man. For wee have the Scriptures among us, and as learned, and wiſe men, both for temporall, and ſpirituall wiſ<g ref="char:EOLhyphen"/>dome, as the Biſhop, and Cardinals of <hi>Rome</hi> are: And the Scripture being of more Antiquity then the Romiſh Religion from whence he pretends to take it, the Church of <hi>England</hi> being grounded on that, and not on mans imaginations (as the Church of <hi>Rome</hi> in what it differs from ours, is the more ancient Church: And it is authentically proved by ſeverall Authors of our Nation, when, and at what time the Tenets of the Church of <hi>Rome,</hi> which dif<g ref="char:EOLhyphen"/>fer from the Church of <hi>England,</hi> were brought into it, and by what Councell: moſt of them being within nine hundered yeares. But we confeſſe there was a Church in <hi>Rome</hi> before there was one in <hi>England,</hi> &amp; <hi>Rome,</hi> to be the place from whence the Faith was generally eſtabliſhed in <hi>England:</hi> But ſence, the cor<g ref="char:EOLhyphen"/>ruption
+<pb n="5" facs="tcp:111918:6"/>that was drawn in for the advantage of the <hi>Romiſh</hi> Church, hath altered it, from the pureneſſe of it, at its converting ours to the Faith: which was the cauſe that we fell from it, to the ſtate we now are in, which is the ſame with its firſt inſtitution.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Well then, let that paſſe: But for multitude, there is a greater number of <hi>Mahumetans,</hi> then of your profeſſion: and therefore according to that Argument you ſhould fall to that beliefe.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>I ſay no: For the Scripture ſayth, <hi>We muſt not follow a multitude to do evill.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Why we agreed on confuting or proving by reaſon the truth of the Scripture: Therefore Ile barr that as a Plea: But anſwer mee to the Argument with your reaſon.</p>
+            </sp>
+            <sp>
+               <speaker>C,</speaker>
+               <p>Well then I ſay that there is as great a mul<g ref="char:EOLhyphen"/>titude of Chriſtians as of <hi>Mahumetans,</hi> for al<g ref="char:EOLhyphen"/>though moſt part of <hi>Aſia</hi> be <hi>Mahumetans,</hi> yet al<g ref="char:EOLhyphen"/>moſt all <hi>Europe</hi> (except ſome few in <hi>Greece</hi> and <hi>Hungaria</hi>) are Chriſtians: And for <hi>Africa,</hi> the Kingdomes of <hi>Prety Janni,</hi> with the Territorie of the <hi>Spaniards</hi> and <hi>Portugueſes</hi> here, and converts of <hi>America,</hi> may compare with the remainder <hi>Ma<g ref="char:EOLhyphen"/>humetans.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Well, but for the antiquity of your Religi<g ref="char:EOLhyphen"/>on what can be ſaid, but that; if you would plead for that: and becauſe that great and mighty Princes have received the Faith, and lived, and dyed in it, you ſay that is the ſigne of the truth of it.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>I ſay one ſigne.</p>
+            </sp>
+            <pb n="6" facs="tcp:111918:7"/>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Well, I ſhall anſwer that one, and your o<g ref="char:EOLhyphen"/>ther after; and firſt for this: Whereas you ſay that it is a ſigne it is the truth, in regard of the long con<g ref="char:EOLhyphen"/>tinuance of the opinion of <hi>Moſes</hi> inſpiration, with a divine and heavenly ſpirit, and ſo conſequently of the Law he writ, and of the truth of it: I anſwer. That look on the people of <hi>America,</hi> and thoſe of <hi>Japan,</hi> and all the people of the South Sea, and you ſhall find they will tell you, that their Faith hath endured ever ſince the World was (no Hiſtory be<g ref="char:EOLhyphen"/>ing able to contradict) but the Scripture doth ſpeak of <hi>Baals</hi> Prieſts that launced their fleſh, and cryed out, <hi>Baal heare us;</hi> and of the Heathens that lived about the children of <hi>Iſrael,</hi> which made their children to paſſe through the fire to the God <hi>Mo<g ref="char:EOLhyphen"/>loch,</hi> and many ſuch like cuſtomes are ſpoken of there, to be uſed among the Heathen, which at this day are uſed amongſt thoſe of <hi>America,</hi> and the o<g ref="char:EOLhyphen"/>ther places aboveſaid, which proves the Antiquity of their Cuſtoms, and therefore ſhould they be fol<g ref="char:EOLhyphen"/>lowed? No an ancie<g ref="char:cmbAbbrStroke">̄</g>t cuſtom is nothing to prove the truth or co<g ref="char:cmbAbbrStroke">̄</g>veniency of a thing, but rather the weak<g ref="char:EOLhyphen"/>neſſe of thoſe that live ſo long in ſottiſh ignorance.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>You ſpeake now of a company of barbarous ſimple people.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>To you they may ſeeme ſo, but not to them<g ref="char:EOLhyphen"/>ſelves, nor to ſome others, and they have greater reaſon to condemn Chriſtians for barbarouſneſſe, then we to condemne them: For the acts of the
+<pb n="7" facs="tcp:111918:7"/>Spaniards have been ſo inhumane with them they, have overcome, that it is certainly known there have been 1100000 of harmleſſe Indians in <hi>Ameri<g ref="char:EOLhyphen"/>ca</hi> cruelly butchered without cauſe or offence given by them, as their own writers report. But as the Perſians ſeemed to the Grecians to be barbarous, ſo the Grecians ſeemed no leſſe barbarous to them, and as all fools think wiſe men to be ſo, or elſe they would learn of them to be wiſe; ſo all wiſe men think fools to be ſo by their fooliſh acts: and who ſhall judge this controverſie? neither party, but the ſtander by. And if it be ſo, why then ſhall we not take the opinion of the ancient Philoſophers, as of <hi>Diogenes,</hi> and others that lived that courſe of life, that they took not care for to morrow, which is the cuſtom amongſt them, and for a civill kinde of hu<g ref="char:EOLhyphen"/>mane curteſie, they equalled them in all paſſages, being as is reported by the firſt diſcoverers the moſt gentle and courteous people living. And indeed my opinion tels me, that the Iriſh men in their Rugge and trouſes, which is their conſtant weare, are not ſo barbarous as the French, who alter their habit oftner then a Cameleon doth her colour. But goe into <hi>China,</hi> a place generally accounted to have as ſubtile in habitants, and as great multitudes of them, as are in any petticular Dominion of the World, their Chronicles informing them their Religion is as ancient as the creation of the world, and that they record to be of above 6000. years continuance,
+<pb n="8" facs="tcp:111918:8"/>counting the yeare as we doe, and they have as good oportunities for their knowledge of the truth as we, for they ſay, Printing is as ancient with them, as Hiſtory with us: Therefore if you will be of a Re<g ref="char:EOLhyphen"/>ligion, or an opinion, becauſe the wiſe are of the ſame, the learned are of the ſame, a multitude are of the ſame, and the Ancients were of the ſame, then you may be of the Religion or opinion of the Chi<g ref="char:EOLhyphen"/>nians, and according to your own rule. In <hi>England</hi> the more Southeaſterly you goe, the wiſer the people are, as the French are wiſer then the Engliſh, the Italians wiſer then the French, and the Grecians wiſer then them: then conſequently it muſt follow, the people of <hi>Turkie</hi> and of <hi>Perſia,</hi> and the Mogores Countrey men, to be wiſer then the wiſeſt of <hi>Europe,</hi> and the people of <hi>China</hi> lying moſt Sontheaſteſly (without you will come home again by <hi>America</hi>) to be the wiſeſt of the World, and therefore to bee followed in cuſtome and Religion.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Although I doe not ſo much ſtand on the Antiquity of the Religion (I profeſſe) as I doe on the reaſons that I can give to prove the verity of it, yet dare I maintain its antiquity maugre all oppo<g ref="char:EOLhyphen"/>ſition: For the ſtory of <hi>China</hi> (to paſſe over that of <hi>America</hi>) I ſay, I conceive, that the Religion there (according as it is reported) is the ſimpleſt Religi<g ref="char:EOLhyphen"/>on in the World, their ſuppoſed gods being always in their houſes, made of wood or clouts, to which they worſhip and doe reverence, which is contrary
+<pb n="9" facs="tcp:111918:8"/>to ours, for we worſhip him that made us, and they worſhip that which they have made, and were they ſo wiſe as the report goeth of them they are, I can<g ref="char:EOLhyphen"/>not thinke they would doe ſuch ridiculous things, therefore the report of their wiſdom ſeems as ſtrange to me as the reſt of the tales told of the greatneſſe of their cities, &amp; other unheard of things, which ſeem as ſtrange to me as tale of the world in the Moon: But the reporters are Jeſuites who ſpeake for their pro<g ref="char:EOLhyphen"/>fits, as <hi>Demetrius</hi> did, and therefore are not to be believed: For to get Princes to maintaine them there is hope of their dominion over that place, they heape to themſelves maſſes of treaſure, for the al<g ref="char:EOLhyphen"/>lowance is very great that they have to build Col<g ref="char:EOLhyphen"/>ledges, and for bribing officers, to give way to them there to make converts, and for their own mainte<g ref="char:EOLhyphen"/>nance, which the <hi>Caſtillian</hi> and <hi>Portingall</hi> profits in all the Eaſt Indies could ſcarcely maintaine, al<g ref="char:EOLhyphen"/>though very great, beſides the bounty of many a private perſon for their ſoules health, in gaining a ſoule, which they may doe in maintaining a Jeſuite to preach to thoſe Pagans: And although you may ſay that the Pope is ſo good a husband that he will not let his diſciples ſow their ſeed in barren ground, a Countrey that is poor, and can produce no profit: I anſwer, that it muſt be a poore fiſh Saint <hi>Peter</hi> re<g ref="char:EOLhyphen"/>fuſes to catch, but if he can have from him that ex<g ref="char:EOLhyphen"/>pects the draught when the net is drawn, as much as if they were all Salmons, what cares he if they prove all Menevves.</p>
+               <pb n="10" facs="tcp:111918:9"/>
+               <p>But for your quoting the opinion of my Coun<g ref="char:EOLhyphen"/>trymen, who thinke that the neerer you goe to the Equinoctiall Line, where is the greateſt heat, the ri<g ref="char:EOLhyphen"/>per you find the fruits, and conſequently the brayns of the men: It is no ſtrange thing in our populous Nation, to find men of ſeverall opinions: and ſuch as are not able to judge of things themſelves; there<g ref="char:EOLhyphen"/>fore they depend upon the opinion of others: as in this perticular. The experience of every common Seaman that trades betwixt the Tropicks where the heat is moſt refulgent, can anſwer for the ignorance of thoſe mens fancies: who knows there are none ſo barbarous and uncivill, as thoſe men are, and I know it will be ſaid, that it is for want of conver<g ref="char:EOLhyphen"/>ſation with the reſt of the World: But I ſay, if they be naturally ſo wiſe, why did they not teach, and not learn of others. But to the contrary, they have converſt with the <hi>Portingall</hi> Nation, for theſe two hundred yeeres, and yet are almoſt as ignorant as they were at their firſt acquaintance, which ſhews their indocible natures to civility.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Why this opinion is generally mayntained by the Learned of your Countrymen?</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Not by the truly knowing men: but ſuch as read much, and know but little, what's eyther for their own honour, or that of their Countrey: but read, and believe rather what is written by a For<g ref="char:EOLhyphen"/>reigner then ſearch into the ends of his Writing: For they interpret them to meane nothing, but as
+<pb n="11" facs="tcp:111918:9"/>they ſay, as the Papiſts doe the Scripture: when it ſays of Chriſt to the Bread, <hi>This is my body:</hi> with<g ref="char:EOLhyphen"/>out looking into the myſticall meaning of the word: For by this very opinion many are drawne into all manner of beliefs, which are enjoyned by the Ca<g ref="char:EOLhyphen"/>tholicks of <hi>Rome,</hi> before they are a ware: For they or their Diſciples write, that the <hi>Italian</hi> is the wiſeſt man of <hi>Europe,</hi> as being borne the moſt Southerly: And if it be ſo, then it muſt follow, that the <hi>Fope</hi> being that Countryman borne and bred up in the Centre of <hi>Italy;</hi> and choſen from amongſt the wi<g ref="char:EOLhyphen"/>feſt of that Nation, muſt be concluded the wiſeſt of the <hi>Italians:</hi> And therefore fitteſt to command in Temporall things as a Prince: and in Spirituall as be is inſpired above any other man, as having the power of Saint <hi>Peter:</hi> So that the divine Power meeting in the wiſeſt naturall man, makes him moſt capable for government, of any living as a Prince and Prieſt, and ſuppoſe him ſo: For according unto this rule it muſt needs follow: and then what man is there that deſires not the wiſeſt Prince to govern him, and that had not rather take to the opinion of the wiſeſt, in point of Religion, then of a man in<g ref="char:EOLhyphen"/>feriour in judgment: So that according to that rule, he muſt be your Prince and Prieſt, therefore true po<g ref="char:EOLhyphen"/>licy of State would forbid this opinion, fearing the Worme under the leafe: And take this for your Anſwer: and Foole for the badge of my Country<g ref="char:EOLhyphen"/>men, that are of this judgment.</p>
+            </sp>
+            <pb n="12" facs="tcp:111918:10"/>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Well then: I ſtand not ſo much on thoſe points, you think you have anſwered: But what ſay you? was not <hi>Abraham</hi> as much in favour of God, as man could be, (for ſo <hi>Moſes</hi> tels us) and yet hee writ no Scripture: no, nor told any thing of Para<g ref="char:EOLhyphen"/>diſe, or of <hi>Adams</hi> eating the forbidden fruit: And therefore why ſhould you believe that theſe things were true? the World being three thouſand yeers old when <hi>Moſes</hi> wrote the Law without beliefe in which, and the <hi>Meſſias</hi> that was promiſed by <hi>Ja<g ref="char:EOLhyphen"/>cob</hi> ſhould come of the Tribe of <hi>Juda,</hi> (for which we muſt take <hi>Moſes</hi> word; who wrote this many yeers after <hi>Jacob</hi> dyed) no fleſh can be ſaved: ac<g ref="char:EOLhyphen"/>cording to Scripture: For nothing will bring one to Heaven but the belief in him: And then you muſt condemne all that dyed before <hi>Jacob:</hi> in which number you muſt include many whom you accompt. good men: As <hi>Adam, Abell, Enoch, Noah, Na<g ref="char:EOLhyphen"/>hor, Abraham, Lot, Iſaac,</hi> &amp;c. For the Scripture never ſays they heard of his comming: and then what correſpondence hath this together: and what encouragement have we to ſerve him, who con<g ref="char:EOLhyphen"/>demneth the righteous, with the wicked: and ſo ma<g ref="char:EOLhyphen"/>ny thouſand Millions of men as were born and died before <hi>Jacob,</hi> knowing not for what, there never being a rule preſcribed for them to walk by.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Well, this hath diſcovered your rotten inſide: and declared by your prophane handling of the Scripture your proper name <hi>Atheiſt:</hi> But yet I ſhall anſwer what you ſay.</p>
+            </sp>
+            <pb n="13" facs="tcp:111918:10"/>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I told you I would not argne without you would forbear paſſion: For the name of <hi>Atheiſt,</hi> that was uſed of old time by <hi>Plutarch</hi> of <hi>Chaerova,</hi> and others, unto ſuch as believed in no God; which you cannot ſay by me, For I do: and in his univer<g ref="char:EOLhyphen"/>ſall Providence, and extoll him for his juſtice and mercy: in making ſo many Creatures as they are, to ſhew his power, and then his mercy in ſaving them: But for the tale of <hi>Moſes,</hi> and that of the New Te<g ref="char:EOLhyphen"/>ſtament, I rather ſuppoſe them the act of ſome cun<g ref="char:EOLhyphen"/>ning Prince then of a godly Prophet: And nothing doth ſo cleer it to me, as the example that is evident in thoſe Princes and people which are his Diſciples, who make the Scripture the colour of all their wic<g ref="char:EOLhyphen"/>ked Enterprizes, as <hi>Moſes</hi> and his Tribe did to get the command over the <hi>Iews.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Well: I perceive then that you are an Atheiſt: but a refined one, one of the new ſtamp:you be<g ref="char:EOLhyphen"/>lieve in God, but not in Chriſt his Son, nor the ho<g ref="char:EOLhyphen"/>ly Ghoſt: but according to our opinion, he that de<g ref="char:EOLhyphen"/>nyes the Son and holy Ghoſt; denyes the Father, and therefore is an Atheiſt: But to anſwer your firſt opinion and queſtion; Why did not <hi>Abraham</hi> aſ<g ref="char:EOLhyphen"/>well write the Scripture as <hi>Moſes?</hi> I can anſwer you: Why did not <hi>David a man after Gods owne heart,</hi> build the Temple as well as <hi>Solomen?</hi> but becauſe it was the pleaſure of the Lord that <hi>Solomon</hi> ſhould rayſe a Trophee of Honour to his Name for ever? So, why did not <hi>Abraham</hi> lead the Chil<g ref="char:EOLhyphen"/>dren
+<pb n="14" facs="tcp:111918:11"/>of <hi>Iſrael</hi> into <hi>Canaan</hi> and write that which <hi>Moſes</hi> writ, but becauſe the Lord had a minde to ſhew himſelf to be a great God, and above all o<g ref="char:EOLhyphen"/>thers, and his power over <hi>Pharaoh,</hi> and the unbe<g ref="char:EOLhyphen"/>lieving <hi>Egyptians</hi> by the hand of his ſervant <hi>Moſes,</hi> who brought the Children of <hi>Iſrael</hi> over the Red Sea, and out of thraldome, that they might Know that he was the Lord, and <hi>Moſes</hi> his Propher, which by <hi>Abraham</hi> could not ſo well have beene ſhewne, for that the Children of <hi>Iſrael</hi> had neyther number to teſtifie his Works, nor affection to value them.</p>
+               <p>And for the injuſtice you taxe God with in con<g ref="char:EOLhyphen"/>demning the Righteous with the Wicked: I an<g ref="char:EOLhyphen"/>ſwer, That if you will a nature, you muſt allow a God, or Providence which is good, and all things to have their being from him: as the World, and all things that be in it, Man being then in it, muſt needs be made by him; And if ſo? then muſt hee have power over ſoule and body: And having ſo, you may allow the Election of him eyther to ſalva<g ref="char:EOLhyphen"/>tion or damnation, both being juſt: For if ſix men be condemned, and three of them get the Kings Pardon, are the other three unjuſtly dealt with? Or if a man hire two, and give one as much as hee promiſed and the other more, is he that hath his due unjuſtly dealt with? I ſay no: but they ought all to think well; thoſe that have their deſerts, and thoſe that have above then: So then allowing God this power, as every man may do what he vvill
+<pb n="15" facs="tcp:111918:11"/>vvith his ovvn; Then may you very vvell believe, that the good vvhich vvere before <hi>Iacob,</hi> vvere ſa<g ref="char:EOLhyphen"/>ved, as being elected in Chriſt, as the Scriptures ſay, <hi>before the beginning of the World,</hi> and many of the other, by the mercy of him that made them.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>This is no anſwer to me, for now we argue to prove the likelyhood of the truth, or falſehood of the Scripture, and you quote Scripture in your Argument: But anſwer me with reaſon, how could they according to your Scripture be ſaved, that be<g ref="char:EOLhyphen"/>lieved not in the <hi>Meſſias,</hi> and how doe you prove by your Scripture, that any that lived in the times before <hi>Iacob,</hi> knew of his comming?</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>I ſay where you will uſe Scripture againſt me, you may allow me Scripture to anſwer you, and it was promiſed from the beginning, that the feed of the woman ſhould breake the ſerpents head.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>This is nothing becauſe as aforeſaid.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>I ſhall refer that to judgement, But the Pro<g ref="char:EOLhyphen"/>phecies of the Scripture with the marvellous things that have been done by the beleevers in it, ſhew plainly, that there is no truth but there, no Religion but there, no hope of ſalvation but there: And firſt for the Propheſies, The curſe of <hi>Noah</hi> on <hi>Cham,</hi> wherein he ſaith, <hi>A ſervant of ſervants ſhall he be unto his brethren,</hi> which is meant of himſelfe and his poſterity, to <hi>Iaphet</hi> and <hi>Sem,</hi> and then again of <hi>Iſmael</hi> the ſonne of <hi>Abraham,</hi> where it is ſaid. <hi>His hand ſhall be againſt every man, and every mans
+<pb n="16" facs="tcp:111918:12"/>hand againſt him,</hi> Both which we ſee verified at this day, for at the diviſion of the world between the ſonnes of <hi>Noah, Africa</hi> fell into the poſteri<g ref="char:EOLhyphen"/>ty of <hi>Cham,</hi> which people are at this day the greateſt ſlaves that can be, they being ſervants to ſervants, and ſold generally as horſes, to thoſe that will give moſt for them, it being the onely trade into <hi>America</hi> to carry the natives of <hi>Congo</hi> and <hi>Guiney</hi> Countries of <hi>Africa</hi> thither: where they worke in the mines and at the ſugar mils, or any vile worke which no others will undertake, in which their labour they became vaſſals and ſubject to the ſervants of others: And for the <hi>Iſmalites</hi> carriage it is well known to thoſe that paſſe from <hi>Aleppo</hi> to <hi>Ieruſalem</hi> or <hi>Bagdet,</hi> or from <hi>Grancaro</hi> to <hi>Ieruſalem,</hi> or to any other part of <hi>Africa,</hi> for though they are generally in the Turks dominions, yet can none of his Subjects paſſe to the places aboveſaid without drawn ſwords of the <hi>Iſmalites</hi> in their teeths and about them, for a reward for their peaceable paſſing.</p>
+               <p>And then for the vvonders that have been done by the beleevers in this Lavv, look on <hi>Moſes, Ioſhua, Gedeon, Samſon, David</hi> and his Worthies, and the Prophets and their incomparable acts are without number. Therefore ſeriouſly conſider on vvhat I have ſaid, and turne from that vvicked condition you are in, to my faith and my beliefe, that I may love you as a brother, and not hate you as one vvicked, and an enemy to God and your ovvn ſoul. Come, let me perſvvade you.</p>
+            </sp>
+            <pb n="17" facs="tcp:111918:12"/>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Firſt for the Propheſies you ſpeake of, and the truth of them, and how they are veri<g ref="char:EOLhyphen"/>fied in the ſonnes of <hi>Cham</hi> and <hi>Iſmael.</hi> I an<g ref="char:EOLhyphen"/>ſwer, that the ſame condition are the ſonnes of <hi>Sem</hi> in, who are ſaid to poſſeſſe <hi>Aſia,</hi> and not a few of thoſe of <hi>Europe,</hi> for firſt, look on the great Turk and on his poſſeſſions in <hi>Eu ope</hi> and <hi>Aſia,</hi> and then the conditions of thoſe in his Dominions, who are all ſlaves, and the great Officers in his Court, and the reſt of his ſer<g ref="char:EOLhyphen"/>vants and Souldiers being ſlaves themſelves to him, have their ſlaves alſo under them, which may bee called ſlaves to ſlaves. And on the Tartarians, Perſians, Mogulls, Chineans, Ja<g ref="char:EOLhyphen"/>panders, all the Eaſt Indians, in all which Countries you may finde multitudes of ſlaves to be ſold, and few or none of <hi>Africa</hi> amongſt them, and in <hi>Africa</hi> there are many places where there be numbers of ſlaves of other parts, as in particular, the City of <hi>Argier,</hi> where there are not ſo few as eight thouſand of your own Nation, and as many of the Spaniſh, French, and Italians, that live in as great bon<g ref="char:EOLhyphen"/>dage as any in the World; And for that of <hi>Iſmael,</hi> as much as you can ſay of his poſteri<g ref="char:EOLhyphen"/>ty, may be ſaid of the <hi>Owſecockey</hi> on the Gulf of <hi>Venice,</hi> and many of the <hi>Scythians,</hi> and
+<pb n="18" facs="tcp:111918:13"/>
+                  <hi>Grim Tartars:</hi> and for the men of might you ſpeak of, look on <hi>Moſes,</hi> and on <hi>Romulus,</hi> both beginning of nothing, both cunning, both honoured after their deaths as Gods; both va<g ref="char:EOLhyphen"/>liant and hardy men: the like compariſon may be made between <hi>Joſhua</hi> and <hi>Theſeus, Gideon</hi> and <hi>Scanderbeg, Samſon</hi> and <hi>Hercules, David</hi> and <hi>Corelanus,</hi> &amp;c.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>In your anſwer to mee in this point of <hi>Iſmael,</hi> and <hi>Cham,</hi> you doe not diſprove the truth of Scripture: For though you inſtance the thraldome of other Nations, you do not deny but that the Children of <hi>Cham</hi> are ge<g ref="char:EOLhyphen"/>nerally ſlaviſh: and though you anſwer (but poorly) the condition of the <hi>Iſmaelites,</hi> with that of the <hi>Owſecockey,</hi> and <hi>Tartars,</hi> and <hi>Scy<g ref="char:EOLhyphen"/>thians,</hi> yet you do not deny, that the Pro<g ref="char:EOLhyphen"/>phecie is made good in them: as if a man be told he ſhall break his neck, if it happens that another man comes to the ſame end as well as hee, his Fortune is not miſtold; therefore be ſatisfied of the truth of the Scripture, and let me perſwade you to believe it.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I am not yet reſolved, nor will by your fallacies: but keep ſtedfaſtly to my opinion to the laſt: and whereas you ſay your reaſons are beyond mine, I ſuppoſe not, and your perſwa<g ref="char:EOLhyphen"/>ding
+<pb n="19" facs="tcp:111918:13"/>me to your opinion and judgment works not on me, becauſe you are of it: For I ſhould rather chuſe any thing then the opinion of an Engliſhman, a people compacted of the worſt of all Nations, the ſcorn of the World the beſt of you all being bred up Apes from your cra<g ref="char:EOLhyphen"/>dles: and have nothing in you, but what you learn of others: traytours to your ſelves and Countrey, naturally ſimple, giddy Coxcombs, pernitious, treacherous, uncertain people, ſuch as for uncertain profits will ſell your God and Countrey, and their Honour with your owne and your Poſterities: The worſt of my expreſ<g ref="char:EOLhyphen"/>ſions are too good to beſtow on you, therefore forbeare to urge any more your frivolous de<g ref="char:EOLhyphen"/>mands.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>You barred paſſion, and yet uſe it in the unworthieſt manner; not like a Gentleman: For can there be any thing ſo offenſive to me as the abuſe of my Countrey, a place dearer to me then mine own honour, your words are gene<g ref="char:EOLhyphen"/>rall, and extend to all perſons, my ſelfe, and friends; For ſpeaking to the Engliſh in gene<g ref="char:EOLhyphen"/>rall, you except not me, but include me, and all that have relation to mee: Therefore ſince you have gone ſo far from the principle we firſt di<g ref="char:EOLhyphen"/>ſputed in, you muſt give mee the ſame privi<g ref="char:EOLhyphen"/>ledge
+<pb n="20" facs="tcp:111918:14"/>and leave to demand proof of what you ſay, or an accompt of your words on your knees, or with your ſword: And know that I grant you an unuſuall favour, in permitting you leave to prove it by perticulars.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I was never brought up a ſword-man, but yet in regard I have ſaid I will maintain it, and if I prove my allegations true, then will there be little cauſe of offence in you, in regard I ſhall make you know what you never knew before, and ſo be the cauſe of your improvement in knowledge.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Come to the perticulars.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Whereas I have ſaid that you are a people compacted of the worſt of all Nations, it is moſt eaſily proved to you by the generall opinion of your own Nation, by whom I have heard your Pedigree derived; ſome from the Normans, others from ſome other part of <hi>France:</hi> ſome from the Netherlands, others from high <hi>Germanie, Denmarke, Swethia, Weſtphalia, Norway, &amp;c.</hi> and to prove the un<g ref="char:EOLhyphen"/>worthineſſe of your Progenitors of thoſe Na<g ref="char:EOLhyphen"/>tions, nothing is ſo evident as their parting with their Countrey, to undertake others un<g ref="char:EOLhyphen"/>certain and unknown, for you prove it by your undertaking war with a Forrainer, which you
+<pb n="21" facs="tcp:111918:14"/>always doe with the worſt of your people, which by preſſe you force from the honeſter ſort to undertake ſuch dangerous deſignes: This with the courteous entertainment you give to ſtrangers, as Mountebanks, all ſorts of creatures of other Countries, which are moſt welcome and moſt eſtemed confirms your ba<g ref="char:EOLhyphen"/>ſtardy, for were you a people of one ſtock you would ſtick together as Allies and Kindred, a<g ref="char:EOLhyphen"/>gainſt all forreign oppoſition, but to the con<g ref="char:EOLhyphen"/>trary you adhere to forrainers, though to the totall overthrow of your Nation, as in the cor<g ref="char:EOLhyphen"/>reſpondencie is had between the great ones of your Countrey with moſt Princes, who know of all the chiefeſt paſſages of your State, ſoo<g ref="char:EOLhyphen"/>ner then they are peoclaimed in your own Countrey, nay, oftentimes directed beyond ſea, and acted there, and in my remembrance the buſineſſe of <hi>Rochell</hi> and the Iſle of <hi>Ree,</hi> when you had opportuninles to advance the Engliſh Standard farther into <hi>France,</hi> then e<g ref="char:EOLhyphen"/>ver <hi>Henry</hi> the fifth carried it: for had he the aſſiſtance of <hi>Burgundy,</hi> you had the aſſiſtance of <hi>Spain</hi> much greater? Had he one French ſubject for him? you had three French Pro<g ref="char:EOLhyphen"/>teſtant Subjects for you: And though the King<g ref="char:EOLhyphen"/>dom of <hi>France</hi> be greater by <hi>Britany</hi> and other
+<pb n="22" facs="tcp:111918:15"/>places then it was then, yet was the Kingdom of <hi>England</hi> greater by <hi>Wales, Ireland,</hi> and <hi>Scot<g ref="char:EOLhyphen"/>land</hi> then it was at that time. But I being then in <hi>France,</hi> knew how the proceedings would be as well before they begun, as you did when they were ended, and the ſame I can ſay of the laſt voyage to <hi>Cales,</hi> and let the loſſe of <hi>Roſingen Lautor, Wayre, Poolway,</hi> and <hi>Poo<g ref="char:EOLhyphen"/>louroon</hi> in the Eaſt Indies, with all the Engliſh authority over the Iſlands of <hi>Banda</hi> to the <hi>Dutch,</hi> teſtifie the ſimplicity and corruptneſſe of your Nation, for as they were loſt by ſur<g ref="char:EOLhyphen"/>prize in time of peace, ſo might they have been comanded back again without infringement of the league by the Engliſh fleet, with much eaſe, But as I have been credibly informed, a bribe to D.B. of ten thouſand pounds. with ſome other petty ſums cauſed you to quit fur<g ref="char:EOLhyphen"/>ther claime to them places, at this day worth unto the Hollanders three hundered thouſand pounds <hi>per annum,</hi> a people that ſcorne and trample on your Nation where ever they meet you, as in the Eaſt India, Straits, and German Sea, which, you ſay is yours. <hi>Greenland,</hi> a place firſt diſcovered by the Engliſh, and poſ<g ref="char:EOLhyphen"/>ſeſt in the name of your King, where his Arms were erected, which they pulled down, and ſo
+<pb n="23" facs="tcp:111918:15"/>vilifying him and your whole Nation with cowardlineſſe, ſimplenuſſe, and all ignomini<g ref="char:EOLhyphen"/>ous expreſſions which that foule mouth'd peo<g ref="char:EOLhyphen"/>ple could utter (making themſelves maſters of that trade) and at <hi>Amboyna</hi> in the Eaſt India, racking, beheading, chaining you on ſhips, without meat or drink, when you were ſcorch<g ref="char:EOLhyphen"/>ed with the fiery heate of the ſunne, throwing you into dunghils, eaſing themſelves over you, with all manner of revilings againſt you, which were teſtified by many ſufferers in the calami<g ref="char:EOLhyphen"/>ty at your Councell Teble, The diſhonou<g ref="char:EOLhyphen"/>rable Treaties you make with your neigh<g ref="char:EOLhyphen"/>bours; ſo much to their advantage and your prejudice, ſuch as the meaneſt Nation ſcorne to accept of from their enemies, and the French-mens actions are patterns for you in all your un<g ref="char:EOLhyphen"/>dertakings (excepting in their reſpect to their own Nation) nay, the principall Ladies of your Countrey cannot goe without a French Gentleman-uſher to lead them, and their huſ<g ref="char:EOLhyphen"/>bands are ſo opinionated of them, that they thinke their Ladies are never perfectly bred un<g ref="char:EOLhyphen"/>till a French-man teacheth them to hold their legs, and carry their feet, and place their lute, while he toucheth it after the French faſhion, And your gallants are generally ſo <hi>Alla mode</hi>
+                  <pb n="24" facs="tcp:111918:16"/>that they leave not any thing undone that may make themſelves and their Maſters perfectly French, which your Doctors that are good at the <hi>Morbus</hi> can well teſtifie. Are you not a people pieced together with the ſtuffe of other Nations in all particulars? As for example, a French man comes ſomtimes into your Court, and for a great while knows not whi<g ref="char:EOLhyphen"/>ther he be in <hi>France</hi> or <hi>England,</hi> there is ſuch a ſimpathy in the nature of a French-man with an Engliſh-man, he findes no difference in the inclination of his own and your Countrey women, onely a more proneneſſe to embrace the true French made then they are, In ſo much that it is a proverb now in <hi>France,</hi> when it's required by way of queſtion to know how a man ſhall bee ſodainly rich: It is anſwered, goe into <hi>England</hi> and <hi>futra</hi> the women, and you ſhall command the ſubſtance of the man, and for the ſtaple commodity of <hi>France,</hi> you ſhall have in exchange the riches of <hi>England,</hi> for the way of trade to know how to put off your commodities, you need no better inſtru<g ref="char:EOLhyphen"/>cter then every common wit of <hi>England,</hi> who will tell you, there is no being a Gentleman there without his mother hath had the pox, or ſome other of his female predeceſſors, and the
+<pb n="25" facs="tcp:111918:16"/>pride of that Nation who deſiers the title Gen<g ref="char:EOLhyphen"/>tleman, will cauſe your income to be more worth then the revenue of foure the chiefeſt Heralds in <hi>England,</hi> you'l heare them ſay, oh that my daughter were <hi>all a mode,</hi> that ſhee were <hi>all a mode,</hi> It would be as much worth to her as two thouſand pound portion: Then it is but ſaying, I lately came from <hi>France,</hi> and am true <hi>Paris,</hi> you ſhall ſtrait be entertained by the good man, to be governour of himſelfe and all his family, where for pleaſure and pro<g ref="char:EOLhyphen"/>fit your place will be far beyond the greateſt Confeſſor of <hi>France,</hi> and when you have got into your poſſeſſion a good convenient ſumme, and left the Rickets and Conuulſion in the family, and made their noſes ſtand <hi>China</hi> fa<g ref="char:EOLhyphen"/>ſhion, you may give them the ſlip over into your own Countrey, and there paſſe away the reſt of your dayes in jollity with their money, and the ſcorning and deriding of their Na<g ref="char:EOLhyphen"/>tion.</p>
+               <p>And is not your Language borrowed from <hi>French, Spaniſh,</hi> and <hi>Italian,</hi> High <hi>Dutch</hi> and low? your people generally ſonnes of ſome one of thoſe Nations in condition: as ſo much imi<g ref="char:EOLhyphen"/>tating of one of them, that one knows not the Gentry of your Countrey, to be other then of
+<pb n="26" facs="tcp:111918:17"/>one of the Nations aforeſaid. And for their dyet, they muſt have one of thoſe Countrey Cooks; which ſometimes for falling from one Prince, and adhering for a greater bribe to an<g ref="char:EOLhyphen"/>other, coſts them the ſetting on. For a <hi>Spaniſh</hi> fig can trip a <hi>Frenchified</hi> tongue, and a <hi>French</hi> ſcent can ſpoile a down inclining Courtier. But to let paſſe farther repetitions, I ſhall ſtand to the hazard of your ſatisfaction by what I have already ſpoken, and refer it to your judgment whether I have not ſufficiently proved you giddy, fantaſticall, ſimple, covetous, treache<g ref="char:EOLhyphen"/>rous, apiſh people.</p>
+               <p>
+                  <hi>C.</hi> For what you ſay of our Nation in ge<g ref="char:EOLhyphen"/>nerall for perticular faults of it is raſhly done: For though (I muſt confeſſe) that we are guil<g ref="char:EOLhyphen"/>ty of many over-ſights in State-government as you have declared, and of much lightneſſe in ſome of our people, yet ought not all to be con<g ref="char:EOLhyphen"/>demned for the errours of ſome perticular men: For although it hath been the fortune of theſe latter ages of <hi>England,</hi> to be miſtaken in choice of Councell: yet former ages have found this Kingdome furniſhed with as choice underſtandings as any of the World, and a this preſent with private perſons of as much knowledge as any of <hi>Europe:</hi> but <hi>Paris</hi> hath
+<pb n="27" facs="tcp:111918:17"/>been preferred to dignities before <hi>Ulyſſes:</hi> you know that the faireſt body hath a fundament, and the beſt built Cities their ſinks; and in the faireſt field of Wheat, there is ſome cockle and brake come up amongſt it: So is it with us in our large and fruitfull Garden of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> wee have ſome unwholſome herbs and weeds among us, and thoſe that are ſo <hi>Frenchi<g ref="char:EOLhyphen"/>fied, Dutchified, Italianated</hi> and <hi>Spaniolized,</hi> we account as the filthy excrement of our Na<g ref="char:EOLhyphen"/>tion. And although you have painted out the condition of ſome of my Countrymen to the life, yet forbeare a generall cenſure: For that is, as if a man in authority to chooſe where hee would, if he light on a Whore to his Wife, the whole Nation of women from whence ſhee was, ſhould be counted naught, becauſe you will ſay, if there had been any good he would never have been cookaled: or if becauſe one had played the thief, all the Family ſhould be condemned to death. Or as the ſilly <hi>French-man</hi> that concluded all the Citizens of <hi>London</hi> Cuckolds, becauſe he lay with a Whore in a Hat. Or as my ſimple Countriman that ſeeing one or two ſtreets in <hi>Paris,</hi>
+                  <note place="margin">Let a man be in <hi>Paris</hi> five yeeres, and judge between it and <hi>London,</hi> hee cannot be compe<g ref="char:EOLhyphen"/>tent becauſe ten yeeres greateſt employment in <hi>London</hi> cannot make him know all the towne perfectly well.</note> would judge be<g ref="char:EOLhyphen"/>twixt
+<pb n="28" facs="tcp:111918:18"/>it and <hi>London:</hi> For going into <hi>Paris</hi> drunk, and paſſing tho<g ref="char:EOLhyphen"/>row the faireſt ſtreet of the City into an Inne, where after the <hi>French</hi> manner hee ſo pox't his, fleſh, that being conveyed to a Doctors for cure, that lived in the midſt of the City, where ſometimes for ayre hee looked out at the win<g ref="char:EOLhyphen"/>dow, and could ſee nothing but houſes, which he took for ſix or eight weeks together: Af<g ref="char:EOLhyphen"/>ter being in <hi>England,</hi> and ſpeaking of the greatneſſe of <hi>London,</hi> he ſtart up and ſwore, it was but a Village to <hi>Paris:</hi> for hee had beene there five or ſix moneths together, and let him be where hee would, or look which way hee would, he could ſee nothing but houſes &amp; ment And for our language which you term mixt and idle learnt, and made up of other tongues, I doe aver it to be as copious and noble a Tongue as any of <hi>Europe,</hi> and it and the beſt of <hi>Europe,</hi> to have all one ſtock: For although there is a kinde of an agreeing with <hi>French</hi> and <hi>Dutch</hi> in many of our words, yet really is it not borrowed of eyther, no more then they of us: But as in truth the ſtock from whence the beſt <hi>French, Italian</hi> &amp; <hi>Spaniſh</hi> is taken was <hi>Latin;</hi> ſo have wee from thence taken ſuch
+<pb n="29" facs="tcp:111918:18"/>expreſſions, as our Schollers in their Writings have thought fit to introduce, inſtead of ſome <hi>Saxon</hi> words, not altogether ſo fit for expreſ<g ref="char:EOLhyphen"/>ſing their meanings, which cauſes the neer<g ref="char:EOLhyphen"/>neſſe betwixt us: And for our affinity with the <hi>Dutch,</hi> it's cauſe is almoſt the ſame: For the <hi>Tutonick</hi> tongue being the ancient Lan<g ref="char:EOLhyphen"/>guage of <hi>Germany,</hi> from whence the <hi>Saxons</hi> our Predeceſſors came, as did alſo the <hi>Nether<g ref="char:EOLhyphen"/>landers,</hi> ſo that we as well as they retein much of our ancient and firſt tongue the <hi>Tutonicke:</hi> which cauſeth them, and ſome other Simple<g ref="char:EOLhyphen"/>tons to imagine, that we borrow of them. And for the mixture of our people, Ile not deny but that ſome families are as uncertaine of their Predeceſſors as you have diſcovered: but the body of our Country is cleer and unmixed, and of a more pure ſtock, then any of <hi>Europe</hi> be<g ref="char:EOLhyphen"/>ing deſcended of the <hi>Saxons,</hi> the nobleſt people of <hi>Germany.</hi> And you ſay that the <hi>Danes</hi> and <hi>Normans</hi> have corrupted us, and left their poſterities amongſt us: Tis denyed that eyther is here in any number conſiderable: For the <hi>Daues</hi> they were deſtroyed, or drawne quite away from hence. And for the <hi>Normans,</hi> that but five deſcents before were <hi>Danes,</hi> and came out of <hi>Denmark,</hi> their numbers at this
+<pb n="30" facs="tcp:111918:19"/>time, and when they were moſt here, were not any thing conſiderable: and were they, you ſee that they and the <hi>Normans</hi> are all one: <hi>William</hi> of <hi>Normandy</hi> being but the fifth Prince born out of <hi>Denmark:</hi> they being all one there can be but one mixture, when as <hi>France, Spain</hi> and <hi>Italy,</hi> ſince the <hi>Saxons</hi> firſt comming into <hi>England,</hi> have been at the leaſt, ſeven or eight times over-run, as out of <hi>Ger<g ref="char:EOLhyphen"/>many, Swethia, Norway, Denmark, Mauri<g ref="char:EOLhyphen"/>tania, Tingitania,</hi> and the <hi>Saracens,</hi> as alſo they have intermixt themſelves, one with the other, by invading one the other, diſplanting and planting as their fortune admitted: the cauſe with the perticular moneths, yeers, and Generals under whoſe conducts theſe people ſo victoriouſly marched are omitted, as not pro<g ref="char:EOLhyphen"/>per for this Diſcourſe: But thoſe Countrey hi<g ref="char:EOLhyphen"/>ſtories may ſatisfie you in the perticulars I have mentioned.</p>
+               <p>And for noble undertakings, no people of a<g ref="char:EOLhyphen"/>ny particular Countrey of the Univerſe hath ever atteined to thoſe glorious Enterprizes, both by Sea and Land, as have done our Prin<g ref="char:EOLhyphen"/>ces and people: To omit the Conqueſts of King <hi>Arthur,</hi> which with the 4000 ſhips of War of <hi>Edgars,</hi> the <hi>Saxon</hi> Monarch with the Licen<g ref="char:EOLhyphen"/>ſes
+<pb n="31" facs="tcp:111918:19"/>given by them for <hi>Danes, Netherlanders,</hi> and <hi>French</hi> to fiſh on the <hi>Britiſh</hi> and <hi>German</hi> Seas, ſufficiently prove the <hi>Britiſh</hi> authority o<g ref="char:EOLhyphen"/>ver them: which <hi>Galfridus Monumetenſis</hi> Printed at <hi>Heidelberge, Anno</hi> 1587, which was over a great part of <hi>France, Iſland, Ire<g ref="char:EOLhyphen"/>land, Gothland, Orkney, Norway, Denmarke,</hi> and Maſter <hi>Lamhard</hi> adds <hi>Swethland, Semo<g ref="char:EOLhyphen"/>land, Windland, Curland, Roe, Femeland, Wit<g ref="char:EOLhyphen"/>land, Flanders, Cherilland, Capland,</hi> and par<g ref="char:EOLhyphen"/>ticular acts of our Kings and men at Armes be<g ref="char:EOLhyphen"/>fore King <hi>William</hi> the firſt, and ſince in our neigh bouring Countries as in <hi>Spain, France, Portugall,</hi> the <hi>Netherlands, Ruſſia, Barbary,</hi> &amp;c. And magnanimous proceedings in the second holy Wars of our Kings, Princes, and Noblemen, King <hi>Richard</hi> in his paſſage onely, taking <hi>Merſſena,</hi> and the Iſland of <hi>Sicily:</hi> mangre the power and reſiſtance of the <hi>French</hi> Army in it, and ſtrength of <hi>Sicilians,</hi> with <hi>Calabria, Cyprus,</hi> and after <hi>Jeruſalem:</hi> which places he beſtowed on ſuch Friends, as he minded to perpetuallize his ſervants. Many of his Succeſſors of <hi>England</hi> ſucceeding him in his Princly undertakings in that Warre: who were the firſt Generals that circumnavigated the Globe, was not <hi>Drake</hi> and <hi>Candiſh:</hi> and
+<pb n="32" facs="tcp:111918:20"/>although <hi>Columbus</hi> is ſaid to have diſcovered <hi>America</hi> firſt, yet certainly Maſter <hi>Thorne</hi> and <hi>Elliot</hi> of <hi>Briſtoll</hi> found <hi>Newfoundland,</hi> which is part of <hi>America,</hi> before <hi>Columbus,</hi> the Ilands <hi>Lacaios.</hi> What Nations have ad<g ref="char:EOLhyphen"/>ventured themſelves ſo farre to the North<g ref="char:EOLhyphen"/>weſt as they, in ſuch Alps of Ice, ſuch high-grown Seas, ſuch threatning and rol<g ref="char:EOLhyphen"/>ling high mountainous waves? as you may ſee in the Journall of Sir <hi>Thomas Button, Baf<g ref="char:EOLhyphen"/>fin, Hudſon, Davies,</hi> and twenty others of our Countrymen, which for brevity I for beare to name: See the perticular acts of Captain <hi>Smith</hi> is enough to perſwade you, that there's more courage in one <hi>Engliſh</hi> heart, then in many thouſands of other people: a man that in ſingle Combat beheaded three <hi>Turks,</hi> and after in <hi>Virgmia</hi> in <hi>America,</hi> he ventured ſingle with his Piſtoll in one hand, to take the King by beard with the other, although a thouſand tall <hi>Indians</hi> were about him, and forced him for feare of death (if he had denyed) to furniſh the <hi>Engliſh</hi> Coloney with Corne and other proviſion that they wanted: Private Captains of this Kingdome have ranſackt and ſpoyled <hi>Portorico, Spaniola, Cuba</hi> and <hi>Jamaco,</hi> with their Cities and Villages, as alſo all the Towns
+<pb n="33" facs="tcp:111918:20"/>and Cities of the Coaſt of <hi>America,</hi> as <hi>Nom<g ref="char:EOLhyphen"/>bre de Dios, Portabelo, Campech, Sanct. John de Aukia, Santa Maria, Coro, Agupalro, Puerto de Cavallos, Truxillo, Cartagena San Joſif</hi> in <hi>Trinidado, Sant Thomas Santos, Sant Vincent, Bayae, Farnambuck,</hi> the Town and Iſland of <hi>Margareta</hi> and <hi>Coche,</hi> in the South Sea, <hi>Sant Jago, Africa, Lima, Guatulco, Chin<g ref="char:EOLhyphen"/>chapaita, Puva Aquatulco, Puerto de Nativi<g ref="char:EOLhyphen"/>dad:</hi> All the Iſlands of the Coaſts of <hi>Africa,</hi> as Saint <hi>Thomas, Iſles de Cape Verdi,</hi> Iſles of the <hi>Canaries, Azores,</hi> with moſt of their Ci<g ref="char:EOLhyphen"/>ties and Forts. This is to be the more valued in regard of pivate mens undertaking and per<g ref="char:EOLhyphen"/>forming the ſame, as you may ſee in the Voy<g ref="char:EOLhyphen"/>ages of <hi>George</hi> the Noble Earle of <hi>Cumber<g ref="char:EOLhyphen"/>land,</hi> Sir <hi>Walter Raleigh,</hi> Sir <hi>Francis Drake,</hi> Sir <hi>John Hawkins,</hi> Sir <hi>Martin Frobiſher,</hi> Sir <hi>Robert Dudley,</hi> Sir <hi>Anthony Sherley,</hi> Sir <hi>Amias Preſton,</hi> Maſter <hi>Thomas Candiſh,</hi> Sir <hi>James Lancaſter, William King, Chriſtopher New<g ref="char:EOLhyphen"/>port, Andrew Barber,</hi> and the wonderfull ad<g ref="char:EOLhyphen"/>venture of Captaine <hi>John Oxnam.</hi> And al<g ref="char:EOLhyphen"/>though that the <hi>Dutch</hi> have when they have bin five to one, come as <hi>Joab</hi> did to <hi>Amaſia</hi> in pretended friendſhip, and ſo ſmote us: there is a farre greater value ſet by the <hi>Eaſt India</hi> Na<g ref="char:EOLhyphen"/>tives,
+<pb n="34" facs="tcp:111918:21"/>on the <hi>Engliſh</hi> for their valour and mag<g ref="char:EOLhyphen"/>nanimity, then on thoſe Graſſe-eating Butter<g ref="char:EOLhyphen"/>boxes. The <hi>Engliſh</hi> when they have beene a<g ref="char:EOLhyphen"/>ware of them (in the City of <hi>Bantam</hi>) ſeverall times when have beene ſeven or eight for one (on their beginning quarrels in their drinke) made them retyre with the loſſe of their ho<g ref="char:EOLhyphen"/>nour, and ſome of their lives and members, in ſpite of their beards, to the great admiration of the <hi>Javeans:</hi> and the <hi>Mogor</hi> the greateſt Monarch of <hi>India;</hi> by his uſing this ſaying, hath made it a Proverbe, <hi>That one Engliſhman will be at three</hi> Hollanders <hi>or</hi> Portugalls, <hi>and one</hi> Portugall <hi>will be at three of his Countrey<g ref="char:EOLhyphen"/>men.</hi> What people have done ſuch ſervice in Sea-fights, as have the <hi>Engliſh,</hi> in the <hi>Interim,</hi> of the taking of <hi>Ormus,</hi> when the <hi>Engliſh</hi> did as gallantly as ever men did. There was one <hi>Philips</hi> with a Pinace of ſixteen Tun with thir<g ref="char:EOLhyphen"/>teen men and boyes, and two Falkings in her, took a <hi>Portugall</hi> Ship with ſeventy five <hi>For<g ref="char:EOLhyphen"/>tugalls,</hi> ninety <hi>Negro</hi> men, women and Chil<g ref="char:EOLhyphen"/>dren, forty <hi>Chall</hi> men and goods in her, to the value of twenty thouſand pounds, which is teſtified by the takers of <hi>Ormus,</hi> and to be ſeen in that Journall. The valrant Acts of <hi>Iohn Cook, William Ling, David Jones, Robert
+<pb n="35" facs="tcp:111918:21"/>Luckey,</hi> foure youths that reſcued themſelves from captivity by killing thirteen <hi>Turks,</hi> and bringing the Ship away for <hi>Spain,</hi> and there ſold her. The Acts of <hi>John Fox,</hi> Captaine <hi>Ni<g ref="char:EOLhyphen"/>cholai,</hi> Maſter <hi>Mallam, John Rawlins,</hi> &amp;c. and a late fight of Captaine <hi>Ranſborow,</hi> that foſt but one man, and killed two hundred Knights of <hi>Malta</hi> and <hi>Negro</hi> ſlaves. Theſe are but touches on the little ſtrings. The Acts of the Sea Worthies in the days of Queene <hi>Eli<g ref="char:EOLhyphen"/>zabeth</hi> onely, being but ſtrook upon would drown all the undertakings before or ſince in that kind, and that you may know how much the gallantry of a Prince, infuſeth bravery into a ſubject, ſee how Sir <hi>Anthony</hi> and Sir <hi>Robert Sherley,</hi> in her days obtained the favour of the <hi>Perſian</hi> King, ſo much that they were employ<g ref="char:EOLhyphen"/>ed as Embaſſadours to all the great Princes of the World, from him and from divers others: The title and power of Sir <hi>Robert</hi> conferred on him by the Pope and Emperour, excelling all they ever before granted: as in his Patent you may ſee at large. In her dayes, Sir <hi>Jerome Horſey</hi> was ſent twice into <hi>England</hi> from the the <hi>Ruſſia</hi> Emperour, and to many other Prin<g ref="char:EOLhyphen"/>ces from him: As alſo Sir <hi>Edward Scorey,</hi> and <hi>Iohn Caudre</hi> from the <hi>Tartar,</hi> and two others
+<pb n="36" facs="tcp:111918:22"/>from the <hi>German</hi> Emperour, which at preſent I cannot name. Take notice that theſe Acts were for the moſt part of them done in the Reigne of the gracious Queen <hi>Elizabeth:</hi> out inteſtine Wars diſcover the valour of our Na<g ref="char:EOLhyphen"/>tion to be yet remayning. Therefore be of an<g ref="char:EOLhyphen"/>other opinion of us, and think that it was <hi>A<g ref="char:EOLhyphen"/>lexander</hi> that cauſed the <hi>Graecians</hi> to conquer <hi>Aſia,</hi> and <hi>Bajazet</hi> that led the <hi>Aſiatick</hi> to the conqueſt of <hi>Greece.</hi> And though your abuſe of my Countrey hath cauſed this derogation from our firſt diſcourſe, yet hath it not made me forget it: And however your thought hath been of our Realme and people, I hope you will not now ſo ſcorn it, as to keep ſtill in a known errour, becauſe it is an <hi>Engliſhmans</hi> reaſon that contradicts it, but rather imagine them, at leaſt as much deſerving as other people if you wil not allow them a greater priviledge.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I muſt confeſſe that what you ſay is more then I ever heard, or would trouble my ſelf to look after, for what I have read or heard, it hath been from the <hi>Frenchman</hi> or <hi>Spaniard:</hi> And that hath been ſo unworthy a Character on your Nation, that I thought the trouble of looking after them would be the worſt of ſtu<g ref="char:EOLhyphen"/>dies.</p>
+            </sp>
+            <pb n="37" facs="tcp:111918:22"/>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Tis there report that begets the ſame opini<g ref="char:EOLhyphen"/>on in ſome of my ſilly Conntrymen, for the Ge<g ref="char:EOLhyphen"/>nerallity tis of <hi>France, Spain,</hi> or <hi>Holland,</hi> will ſcarce allow an <hi>Engliſhman</hi> reaſon enough to make a ſigne or ſpirit to fight with a Pigmey, in their diſcourſe they ſo undervalue us, which begets in me a ſtronger opinion of their mag<g ref="char:EOLhyphen"/>nanimity and ingemuity, for tis the nature of men never to regard or diſreputate our men ſpirited: but a noble, heroick, wiſe Gentleman ſhall be ſure of enemies as often as hee is talkt of, that will lay a thouſand aſperſions and falſe calumnies on his Gallantry: So a beautifull brave woman by the reſt of her ſex ſhall be ſcandalized with many a falſe imputation, when one ugly, though notoriouſly bad, ſhall not once be ill ſpoken of, and you ſee they ne<g ref="char:EOLhyphen"/>ver meddle with the <hi>Scotch, Iriſh,</hi> or other ſuch mean people, which may perſwade you tis their envy of our high celerities and un<g ref="char:EOLhyphen"/>marchable worth.</p>
+               <p>You know there is a Proverbe <hi>That ill will never ſpeaks well:</hi> and wee can look for no bet<g ref="char:EOLhyphen"/>ter from thoſe people, then is to be expected from a mortall enemy, as thoſe on whom vvee have vvith ſo much eaſe, ſo often trampled on: But the vviſeſt and greateſt of them knovv
+<pb n="38" facs="tcp:111918:23"/>that the meaner the people are, that conquer, the greater diſhonour receive the conquered; and therefore have given to us our due, in their acknovvledging of us: As in perticular <hi>Fran<g ref="char:EOLhyphen"/>cis</hi> the firſt (vvhom the <hi>French</hi> confeſſe) the gallanteſt of the Kings, at his being taken pri<g ref="char:EOLhyphen"/>ſoner by <hi>Charles</hi> the fifth, declared; that as he was the ſecond <hi>French</hi> King, ever taken priſo<g ref="char:EOLhyphen"/>ner, ſo was his unhappineſſe far greater then the firſt: For he had fell into the hands of the baſe <hi>Spaniard,</hi> and his Predeceſſour into the hands of the noble <hi>Engliſh.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Well then imagine your reaſon of as much force with me, as if it came from ſome other Countreyman. But there is nothing yet ſaid by you, but what I ſuppoſe I have anſwe<g ref="char:EOLhyphen"/>red: but I have much more to ſay in defence of my argument, that I thinke you will not deny to be ſufficiently reaſonable for me to keep to my own principle.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Let us heare it.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>I deſire to know from you whether you did not ſuppoſe the old Law, once to be the true Law?</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Yes, I did ſo.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Then on what ground doe you alter your beliefe?</p>
+            </sp>
+            <pb n="39" facs="tcp:111918:23"/>
+            <sp>
+               <speaker>C.</speaker>
+               <p>On the promiſe in the old Law of our Saviour Chriſt, who is borne King of the Jews, and came and ſuffered in the fleſh, to give unto all true believers in him, eternall ſalvation.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>What ground have you to believe that he is the Chriſt, expected and promiſed by the old Law?</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>The Teſtimonies given of him by his followers in the New Teſtament, wherein is ſet forth his deſcent, his conception, his birth, his wiſdome, his holineſſe, his uprightneſſe, his power, his miracles, his paines, his ſuffe<g ref="char:EOLhyphen"/>rings, his buriall, his reſurrection, and his glo<g ref="char:EOLhyphen"/>rious aſcenſion, in that heavenly manner, that might perſwade any reaſonable creature of his divine nature, and godly power.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Firſt, I deſire to know, whom you thinke moſt knowing in your Law of Chriſt, and moſt able to interpret the darke meanings written in it.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>That man that is wiſe, learned in the Scriptures, and converſeth often by prayer with his heavenly Father, to move Him to in<g ref="char:EOLhyphen"/>ſpire him with the ſpirit of interpreting his Law.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>'Tis not the Mahumetan that knows
+<pb n="40" facs="tcp:111918:24"/>the meaning of the New Teſtament, not yet the Gentile of the old, what ſay you is it?</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>No.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>Well then you muſt allow the Jewiſh Rabbies to have the beſt abilities for the inter<g ref="char:EOLhyphen"/>preting the Old Scripture, for they are endu<g ref="char:EOLhyphen"/>ed with all thoſe gifts that you have mentio<g ref="char:EOLhyphen"/>ned ſhould be in Scripture Interpreters: and who altered the Old Law? was it not the Gentiles whom you count unfit Judges in the Law?</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>Although that many Gentiles were believers, yet were not they the onely cauſe of the Chriſtian faith, for wee have it from the Sonne of God, and his Acts compared with the Old Teſtament as hears us, That he is the onely redeemer: And the Old Teſtament ſaith, <hi>Thoſe that ſate in darkneſſe ſhould ſee light,</hi> and if the Jews hearts had not been hardned, to cauſe a ſuffering in the Sonne of God, the Scripture could not have been fulfilled, nor ſal<g ref="char:EOLhyphen"/>vation given but by his death.</p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>For thoſe acts which you pretend were done by Chriſt, there have beeen many which have pretended themſelyes to be Chriſt, as in the Hiſtory of <hi>Joſephus</hi> you may finde written, with moſt of the Acts in his time (though but
+<pb n="41" facs="tcp:111918:24"/>of a private man if he did doe any thing that was a diſturbance to the Common-wealth of Iudea. And hee that you ſo reverence and e<g ref="char:EOLhyphen"/>ſteeme is ſcarcely ſpoken of by him, what is ſaid of him is, that there was a Prophet, if we may call him ſo, (whom many called Chriſt) that did great things, which by many is ſup<g ref="char:EOLhyphen"/>poſed to be inſerted by ſome Chriſtian, becauſe there is ſo little ſpoken of him by <hi>Joſephus,</hi> who gives an accompt of all acts whatſoever done in his time, though of never ſo ſmall conſe<g ref="char:EOLhyphen"/>quence, and he being borne before and dying after him, 'tis ſtrange he ſaid ſo little, if that his miracles were ſo great, and if they were you may ſee as great in the hiſtory of the Romane Saints, that you'l not believe: And ſince ma<g ref="char:EOLhyphen"/>ny Jews that have pretended themſelves to be Chriſt; As firſt, <hi>David Eli,</hi> who gathered the Jews together in <hi>Haptham,</hi> to war on all Na<g ref="char:EOLhyphen"/>tions, and win Jeruſalem, hee affirmed, God had ſent him to free them from the Gentiles, and that hee was the Meſſias. The King of <hi>Perſia</hi> ſent for him, and impriſoned him in the City of <hi>Dabaſthan,</hi> but hee three dayes after, when the King and his Councel ſate to take order for his further ſafety came amongſt them, the King asked him how he came thither, hee
+<pb n="42" facs="tcp:111918:25"/>ſaid by his wiſdome and induſtry, the King bid lay hold on him, his ſervants anſwered that they could heare him but not ſee him, he went away, the King followed him to a river, over which he ſtretching his handkerchief, puffed, and was then ſeen of them all he in vain pur<g ref="char:EOLhyphen"/>ſued him with their boats, for the ſame day hee went ten dayes journey from thence to <hi>Elghamaria,</hi> and ſo proceded, untill that on a bribe given by a Turkiſh King of 10000 pound to his father in Law <hi>Smaldin,</hi> for which one night as he ſlept hee beheaded him, This is as ſtrange an act as ever was done by Chriſt: And are there not many more which I can name, that have done great and ſtrange things? yes, <hi>Benbarchoſin, Benchoab, Motes. Lemlen, R. David, &amp;c.</hi> and yet were few of them be<g ref="char:EOLhyphen"/>lieved, becauſe the Rabbins received not their ſignes. And whereas you interpret the Old Teſtament to figure at the comming of your Saviour in a meane obſcure way, and onely for a ſpirituall Kingdom, they ſay that he muſt bee borne unto the Kingdom of Jeruſalem, as well as to the Kingdom of heaven, and come in glory and power, and take off the yoke that the Jews are ſo much oppreſt with, and give into their hands the temporall and ſpirituall
+<pb n="43" facs="tcp:111918:25"/>power, exalting them above all the people of the earth. And I have heard a Jew that hath gone to diſpute with a Chriſtian, and he out of your own Scripture hath ſo puſſed him that he knew not what to ſay, for the firſt Queſtion hath ſet him up, which hath been to bid him prove by the New Teſtament (your own book) that your Saviour came of the ſeed of <hi>David,</hi> and of the loynes of <hi>Juda,</hi> vvhich he could not doe: For the Genealogie of <hi>Matthew, Chap.</hi> 1. onely proves the deſcent of <hi>Ioſeph,</hi> and not of <hi>Mary,</hi> of vvhom came your Chriſt, vvhich you ſay is not part of the man, for you ſay, ſhee conceived with the Holy Ghoſt; therefore this deſcent is left uncertain, and untill you prove that you ſhall draw me to believe (if in any) the Old before the New Law.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>For your comparing Chriſt with an im<g ref="char:EOLhyphen"/>poſture it is moſt blaſphemouſly done of you, For what are theſe you name? are they bet<g ref="char:EOLhyphen"/>ter? ſeeked they not their own ends more then Gods? and the ſalvation of the world? did not they deſire to be Kings, or to have rule and power over other mens bodies, ſouls, and eſtates? did they not make diſturbances in the Countrey? and would have hindered <hi>Cae<g ref="char:EOLhyphen"/>ſar</hi> from his right? which were ſufficient
+<pb n="44" facs="tcp:111918:26"/>badges of their impoſtury. And to the con<g ref="char:EOLhyphen"/>trary ours came and preached love, unity, and concord among his believers: and gave to <hi>Cae<g ref="char:EOLhyphen"/>ſar</hi> though a Heathen his due, Hee for all his Cures asked neyther ſhooe to his foot, not clothes to his back, and notwithſtanding them, <hi>had not wherewith to hide himſelfe,</hi> as hee de<g ref="char:EOLhyphen"/>clareth, and is teſtified of him: And for <hi>Jo<g ref="char:EOLhyphen"/>ſephus</hi> he was a Levit, and Chriſt comming o<g ref="char:EOLhyphen"/>verthrew their profeſſion amongſt his belie<g ref="char:EOLhyphen"/>vers, and took away their tenths and benefits they had by their Prieſthood, and ſhould hee have left that teſtimony of him as he deſerved, it would have wrought ſo much on the wiſe following poſterity of the <hi>Iews,</hi> that they would have cryed with thoſe that ſaw his works, There was never ſuch a man, not ſuch things done in <hi>Iſrael:</hi> Which is cauſe enough for him to ſpeake ſo little of him, that did ſo much: And could any after death, rayſe up the body as hee did? No; you finde that in the death of thoſe falſe Chriſts (which our bleſſed Saviour ſpeaks of, after death hath paſſed, then end their devices, but his acts were greater af<g ref="char:EOLhyphen"/>ter his death, then before, as in ſpight of his Watchmen to rayſe up his body, and joyning it to his ſoule, and then appearing amongſt his
+<pb n="45" facs="tcp:111918:26"/>believers, and conferring the ſpirit of wiſdom and power on his Apoſtles, then paſſing to E<g ref="char:EOLhyphen"/>ternity with ſoule and body: And what you have heard betvveen a <hi>Iew</hi> and a <hi>Chriſtian</hi> is nothing, for it ſhevvs the <hi>Iew</hi> pragmaticall, and the <hi>Chriſtian</hi> ignorant. For as the firſt Chapter of <hi>Matthew</hi> ſhevvs the Genealogie, of <hi>Ioſeph,</hi> ſo that of <hi>Luke</hi> ſhevveth that of <hi>Mary:</hi> For though it be not <hi>Maries</hi> in perti<g ref="char:EOLhyphen"/>cular name, yet is it moſt cleere that <hi>Ioſeph</hi> had not two fathers, therefore one muſt needs be accompted <hi>Maries.</hi>
+               </p>
+            </sp>
+            <sp>
+               <speaker>A.</speaker>
+               <p>What you ſay is ſomthing, but not ſuf<g ref="char:EOLhyphen"/>ficient to ſatisfie me, I'le take the words of your own Scripture to condemne you, which are, <hi>A good tree is known by his fruit, and can a man gather figs of thiſtles, or grapes of thorne trees?</hi> We may, I ſay, if there were that truth as you pretend there is in Scripture, would it not ſhew it ſelfe in the profeſſors of it? But to the contrary, there is ſo much iniquity in you Chriſtians, that take you from the meaneſt to the greateſt, all orders and ſects whatſoever, and there is nothing but deceit, covetouſneſſe, whordome, adultery, drunkenneſſe, ſwearing, gluttony, falſe heartedneſſe, extortion, pride, Sodomy, inceſt, lying, ſtealing, all things in
+<pb n="46" facs="tcp:111918:27"/>greater proportion then amongſt the <hi>Turks, Ethnicks,</hi> or the moſt vile of any profeſſion that now is or ever was. Is not Religion the co<g ref="char:EOLhyphen"/>lour for the vileſt procedings that are? doe not the Princes and States of <hi>Europe</hi> cloke with that their murther, plunderings, rapine and oppreſſion in the vileſt manner? Is not that the pretence for the martyring of many ſoules by the Pope and bloudy Inquiſitors, and Reli<g ref="char:EOLhyphen"/>gion is generally ſo ſlightly ſet by by your ſelves, that from one accounted a very honeſt man, but of the Browniſt Sect, I heard ſay, that rather then the Pope or Engliſh Biſhops ſhould come to be eſtabliſhed in the Kingdom where he lived, hee would that the Turke ſhould prevaile over it, they being three the moſt eminent profeſſors of Chriſt, I marvailed much at his ſaying, in reſpect as well of the temporall government as the ſpitituall: But recollecting my memory, I thought that hee might as well ſay ſo, as the reſt believe, and doe as they doe, and to diſcover to you how much the heavens frown on your chiefe de<g ref="char:EOLhyphen"/>ceivers (that is the Clergie and Prieſts of each Chriſtian Sect) and in perticular in your Countrey where they are allowed to marry, there is ſcarce a grand childe, or childe remain<g ref="char:EOLhyphen"/>ing
+<pb n="47" facs="tcp:111918:27"/>through the Kingdom of <hi>England</hi> of any order of Prieſthood, that is either noble, rich or vertuous in any great meaſure (though there are not ſo few as 100000 beneficed men at all times in your Kingdom.) Therefore take this for your abſolute anſvver, that I vvill not be like that ſimple Courtier, vvho being in much honour and eſteem vvith his Prince and Coun<g ref="char:EOLhyphen"/>trey, for a bribe and hope of better preferment, ſels his preſent and future certain honour and profit for expectance of greater from another, and ſo loſeth both: No, I will be ſure of the pleaſure is certain, and enjoy my ſelfe vvhile I may, and run the hazard of that bug-beare Hell.</p>
+            </sp>
+            <sp>
+               <speaker>C.</speaker>
+               <p>To ſee how far you would ſecure your ſelf in your folly and ignorant opinion, you will take occaſion to condemne (for ſome pre<g ref="char:EOLhyphen"/>tending Chriſtians) the whole number of the believers in Chriſt. For indeed thoſe that you have diſcovered, are but pretenders to Chriſtia<g ref="char:EOLhyphen"/>nity: For the marks that are by you deſcribed, are the marks of the beaſt, which is on them, and by which you may know they have drank of the waters of the Whore, and are become intoxicated with it, and ſo do theſe mad things (as it is ſaid in the <hi>Revelation,</hi> for the Scrip<g ref="char:EOLhyphen"/>ture
+<pb n="48" facs="tcp:111918:28"/>tels us, <hi>There is but one Faith, and one Ba<g ref="char:EOLhyphen"/>tiſme,</hi> which is, there is but one way unto ſal<g ref="char:EOLhyphen"/>vation: and except you be of that you cannot be ſaved: Now that way is ſet downe in the ten Commandements in the old Law: And all things added to them (except the beliefe that Jeſus Chriſts comming in the fleſh, and ſuffe<g ref="char:EOLhyphen"/>ring, is ſufficient for our originall ſin, and break<g ref="char:EOLhyphen"/>ing thoſe Commandements) is humane and by man invented, nor ſhall any equivocation, or mentall reſervation, be a ſufficient Plea at the day of judgment for the tranſgreſſors in thoſe ways, you have ſet downe, nor ſhall Chriſts Name ſtand them in more ſtead at that day, then your opinion ſhall do you: And for what you ſay the <hi>Browniſt</hi> ſaid, as touching the <hi>Turks</hi> Dominion over <hi>England,</hi> I ſuppoſe it was not his hatred to his Countrey, nor his King, that cauſed him to ſay ſo, but his deſire to keep his body (the Temple of Chriſt) en<g ref="char:EOLhyphen"/>tirely to his worſhip, without the ſuffering any ſuperſtition to enter thereat, which he might imagine hee could not doe ſo freely under the Pope or Biſhops, as under the <hi>Turk:</hi> For may be he had heard, that hee allowed of liberty of Conſcience: And though ſometimes hee took the tenth child to make a <hi>Turk,</hi> and left nine
+<pb n="49" facs="tcp:111918:28"/>to him, yet he might thinke that they would have never an one to his diſpoſing, nor him<g ref="char:EOLhyphen"/>ſelf neither. And for your <hi>Item</hi> to the Cour<g ref="char:EOLhyphen"/>tier or State ſervant, I like that well, but not your reſolution on it. But the day permitting no long diſcourſe of this ſubject, I ſhall give you checkmate, and ſo leave you.</p>
+               <p>I perceive your keeping to your opinion is, for love of the worldly liberties you gain by it, for the way to heaven you finde too ſtrait and narrow to paſſe, but I tell you that is a fond fantacie of yours, for experience tels us daily, that there is a hell in this life, as well as in that to come, and that which makes you fit for it, is the ſame that makes you ſuffer in this: For firſt, ſuppoſe you ſteale or murther, in the one you ſatisfie your want, and the other your deſire of revenge, but have not both theſe ſuf<g ref="char:EOLhyphen"/>ficient obſtacles to deter a man from either: Is not expecting death a quarter of a yeare be<g ref="char:EOLhyphen"/>fore it comes, and then death it ſelfe, which cuts off all your worldly enjoyments enough? Is not the palſey, dropſie, and ſottiſh humour of a common drunkard, a worldly puniſhment greater then the pleaſure that cauſed it? And in the greateſt worldly delight ſweet Lechery, is there not the greateſt worldly puniſhment
+<pb n="50" facs="tcp:111918:29"/>follows it? if you extend your deſires in that beyond the liberty the Scripture gives you, for are your deſires vain, you muſt needs meete with ſome of your own humour, and then a minutes ſport ſomtimes cauſes a years pain, but if by accident you ſcape one time, you muſt be paid at another, for it is now grown a proverb, That when a thing ſeems ſtrange, they ſay it is as impoſſible as for a common whore to be without the pox, and the leaſt proportion of that is greater then the greateſt pleaſure you obtain by your tranſgreſſion with thoſe com<g ref="char:EOLhyphen"/>mon proſtitutes, for there is no love in the acti<g ref="char:EOLhyphen"/>on with them, which (men ſay) makes the fe<g ref="char:EOLhyphen"/>licity in that kimde ſo great, doth not deafneſſe, blindneſſe, feebleneſſe, and all manner of de<g ref="char:EOLhyphen"/>crepitneſſe, baunt the body of man in this world for that ſinne, whereas to be good, and to obſerve the Commandements, brings a heaven to a man on earth, for there is not the leaſt diſcommodity attends the obſerver of them, and ſince there is no commodity coming to you by this beliefe, conſider the great diſ<g ref="char:EOLhyphen"/>commodity if it were but may happen for it: For I'le put it thus to you, were it a million to one, whether there were a hell or not, conſi<g ref="char:EOLhyphen"/>dering it is but your opinion which brings you
+<pb n="51" facs="tcp:111918:29"/>no profit, nor true worldly pleaſure, why ſhould you run the hazard of that eternall damnation for an opinion onely, and to ſpeake truly there is not that action ſo vile, but by true faith in Jeſus Chriſt may be forgiven, according to the ſaying of the Scripture. Therefore let not the feare of the ſtrictneſſe of the Scripture deter you from a true beliefe in it and the holy Trinity. (<g ref="char:dtristar">*⁎*</g>)</p>
+            </sp>
+         </div>
+      </body>
+      <back>
+         <div type="epigraph">
+            <pb facs="tcp:111918:30"/>
+            <l>Ball'd twill be term'd by ſome, when may be they</l>
+            <l>Did never write, or ſcarcely good ſenſe ſay:</l>
+            <l>And though 'tis writ to pleaſe, yet likely hee</l>
+            <l>That writes; by ſuch ſhall hardly cenſur'd be.</l>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:111918:30"/>
+            <p>Imprimatur.</p>
+            <closer>
+               <signed>JOHN DOWNAME.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
